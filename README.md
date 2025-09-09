@@ -2,7 +2,7 @@
 Exploring the relationship between economic indicators, innovation, and education.”
 
 
-## 📊 Busan 300 Project
+## 📊 Global Education and Innovation Analysis Project
 
 ### 📌 Project Summary
 This project investigates relationships between economic indicators, innovation, and education using data wrangling and analysis. Three key research questions were addressed:
