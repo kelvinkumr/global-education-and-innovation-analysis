@@ -30,9 +30,9 @@ This project investigates relationships between economic indicators, innovation,
 This project combined datasets from World University Rankings and GDP Among World.
 
 ### Datasets Used
-World University Rankings (CSV): [Kaggle Dataset](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings)
-GDP Among World (JSON): [Kaggle Dataset](https://www.kaggle.com/datasets/darknez/gdp-among-world)
-Additional merged dataset prepared via Excel Power Query.
+* World University Rankings (CSV): [Kaggle Dataset](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings)
+* GDP Among World (JSON): [Kaggle Dataset](https://www.kaggle.com/datasets/darknez/gdp-among-world)
+* Additional merged dataset prepared via Excel Power Query.
 
 ### Key Wrangling Steps
 1. Loaded CSV and JSON data into Excel Power Query.
